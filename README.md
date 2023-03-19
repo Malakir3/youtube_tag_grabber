@@ -1,5 +1,5 @@
 # プログラム名
-YouTube Tag Finder
+YouTube Tag Grabber
 
 # 概要
 任意の単語でYouTube検索し、ヒットした動画に付けられているタグを一括取得してグラフに表示します。
@@ -39,7 +39,7 @@ https://developers.google.com/youtube/v3/getting-started?hl=ja
 ```
   例）デスクトップに作成済みのフォルダ"example"で実行する場合（OS:Windows, Shell:Bash）
   $ cd ~/Desktop/example
-  $ git clone https://github.com/Malakir3/youtube_tag_finder.git
+  $ git clone https://github.com/Malakir3/youtube_tag_grabber.git
 ```
 3. 以下のファイル・フォルダの名前を変更してください。
 ```
